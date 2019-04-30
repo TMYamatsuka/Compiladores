@@ -2,7 +2,6 @@
 #include <iostream>
 #include <cctype>
 #include <cstdlib>
-#include "lexer.cpp"
 
 using namespace std;
 
